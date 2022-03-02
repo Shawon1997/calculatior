@@ -1,0 +1,6 @@
+const addition = require("add")
+const subtract = require("/subtract")
+const multiple = require("/multi")
+const division = require("/divided")
+console.log(addition(2, 1))
+    //console.log(subtract)
