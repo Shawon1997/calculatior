@@ -1,5 +1,5 @@
  function add(a, b) {
      let sum = a + b;
-     return sum;
- };
- module.export = { add };
+     return (sum)
+ }
+ module.exports = add;

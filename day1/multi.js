@@ -1,4 +1,4 @@
-module.export = function(a, b) {
+module.exports = function(a, b) {
     let multiple = a * b;
     return multiple;
 }
